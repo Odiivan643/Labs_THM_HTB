@@ -1,7 +1,9 @@
 Présentation du lab
 
 Nom : CyberHeroes
+
 Catégorie : Web Security
+
 Objectif : Identifier les services exposés, analyser l'application web et comprendre son mécanisme d'authentification.
 Outils utilisés : Nmap, navigateur web, outils de développement.
 Statut : Lab Résolu
